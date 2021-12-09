@@ -107,7 +107,6 @@ function viewEmployeeByDepartment() {
   });
 }
 
-
 function promptDepartment(departmentChoices) {
 
   inquirer
@@ -342,7 +341,6 @@ function promptEmployeeRole(employeeChoices, roleChoices) {
         });
     });
 }
-
 
 function addRole() {
 
